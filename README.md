@@ -8,7 +8,7 @@
 
 ### 🤵 About Me:
 
-- 🏦 Actualmente estoy trabajando en la startup Saicoma SpA como desarrollador backend. móvil y devops
+- 🏦 Trabajando en la startup Saicoma SpA como desarrollador backend. móvil y devops
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 Diariamente uso `NodeJS`,` Flutter`, `Postgres`
 - 🌱 Actualmente estoy realizando un curso Full Stack Java , aprendiendo Kubernetes y Spring boot
