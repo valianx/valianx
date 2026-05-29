@@ -40,8 +40,11 @@ a vector-context MCP server, and automation &amp; data-analysis agents.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valianx&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valianx&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valianx&theme=tokyonight" alt="profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=valianx&theme=tokyonight" alt="top languages by repo" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=valianx&theme=tokyonight" alt="top languages by commit" height="180"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=valianx&hide_border=true&theme=tokyonight" alt="streak" />
