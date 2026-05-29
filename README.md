@@ -1,7 +1,7 @@
 <h1 align="center">Mario Gutiérrez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=160&lines=Software+Engineer+%26+Architect;AI+expert+%C2%B7+creator+of+team-harness;Designing+scalable+architectures;Agentic+development+with+Claude+Code+%26+Gemini" alt="roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=160&lines=Software+Engineer+%26+Architect;AI+expert+%C2%B7+creator+of+team-harness;Designing+scalable+architectures;Agentic+development" alt="roles" />
 </p>
 
 <p align="center">
