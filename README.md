@@ -1,19 +1,22 @@
 <h1 align="center">Mario Gutiérrez</h1>
 
 <p align="center">
-  <b>Software Engineer &amp; Architect</b> · 10 years of experience · 5 years leading engineering teams
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&height=55&lines=Software+Engineer+%26+Architect;AI+expert+%C2%B7+creator+of+team-harness;Designing+scalable+architectures;Building+with+Claude+Code+%26+Gemini" alt="roles" />
 </p>
+
 <p align="center">
-  🤖 AI expert &amp; enthusiast · 2 years building with AI · creator of <b>team-harness</b>
+  <b>10 years of experience</b> · <b>5 years leading engineering teams</b> · 2 years building with AI 🤖
 </p>
 
 ---
 
 ### 👨‍💻 About
 
-I design **scalable architectures** and build with AI every day — working hands-on with
-**Claude Code** &amp; **Gemini**. Over the last 2 years I've created a development harness,
-a vector-context MCP server, and automation &amp; data-analysis agents.
+<p align="center">
+  I design <b>scalable architectures</b> and build with AI every day — working hands-on with
+  <b>Claude Code</b> &amp; <b>Gemini</b>. Over the last 2 years I've created a development harness,
+  a vector-context MCP server, and automation &amp; data-analysis agents.
+</p>
 
 ### 🛠️ Tech Stack
 
